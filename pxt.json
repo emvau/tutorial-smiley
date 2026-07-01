@@ -1,5 +1,5 @@
 {
-    "name": "Tutorial Froehlich oder Traurig",
+    "name": "Tutorial Smiley",
     "description": "Ein MakeCode Tutorial für den micro:bit",
     "dependencies": {
         "microbit": "*"
