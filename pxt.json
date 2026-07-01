@@ -5,7 +5,7 @@
         "microbit": "*"
     },
     "files": [
-        "froehlich.md"
+        "smiley.md"
     ],
     "targetVersions": {
         "target": "7.0.0"
