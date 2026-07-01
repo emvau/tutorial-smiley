@@ -1,4 +1,4 @@
-# tutorial-smiley
+# tutorial-smiley @tutorial
 Ein Makecode-Projekt
 Wenn Knopf A gedrückt wird, soll ein Smiley erscheinen. 
 Wenn Knopf B gedrückt wird, soll ein trauriger Smiley erscheinen.
